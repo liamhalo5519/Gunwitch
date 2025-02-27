@@ -1,0 +1,31 @@
+{
+  "title": "Gunwitch",
+  "packs": [
+    {
+      "name": "gunwitch",
+      "label": "Gunwitch",
+      "path": "packs/gunwitch",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "id": "gunwitch",
+  "authors": [
+    {
+      "name": "PunchBunny",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "version": "1.1",
+  "url": "https://github.com/liamhalo5519/Gunwitch",
+  "manifest": "https://raw.githubusercontent.com/liamhalo5519/Gunwitch/master/module.json",
+  "download": "https://github.com/liamhalo5519/Gunwitch/archive/refs/heads/main.zip"
+}
